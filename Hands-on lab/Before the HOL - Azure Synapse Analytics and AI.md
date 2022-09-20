@@ -67,7 +67,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 ### Task 1: Download the current lab assets
 
-1. Access the [GitHub repository page](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI).
+1. Access the [GitHub repository page](https://github.com/azuredevops619/MCW-Azure-Synapse-Analytics-and-AI).
 
 2. Toward the right side of the screen, expand the **Code** button menu.
 
