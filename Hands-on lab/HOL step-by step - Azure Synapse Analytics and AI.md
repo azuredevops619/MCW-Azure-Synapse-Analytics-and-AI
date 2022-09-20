@@ -186,7 +186,7 @@ Table design performance considerations
 |--------------------|-------------|
 | Hash distribution | Tables that are larger than 2 GBs with infrequent insert/update/delete operations, works well for large fact tables in a star schema. |
 | Round robin distribution | Default distribution, when little is known about the data or how it will be used. Use this distribution for staging tables. |
-| Replicated tables | Smaller lookup tables, less than 1.5 GB in size. |
+| Replicated tables | Smaller lookup tables, less than 2 GB in size. |
 
 ### Task 1: Create the sale table
 
