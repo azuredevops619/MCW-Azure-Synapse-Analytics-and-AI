@@ -1861,7 +1861,7 @@ All logins to your data warehouse are logged to `sys.dm_pdw_exec_sessions`. This
     ![The request content link is displayed over a SQL request.](media/ex7-task5-03.png "SQL requests")
 
 5. You may now return to the **Monitor** hub and cancel the in-progress pipeline run.
-
+<!--
 ## Exercise 8: Synapse Pipelines and Cognitive Search (Optional)
 
 **Duration**: 45 minutes
@@ -2532,7 +2532,7 @@ In this exercise, we'll create an Azure Purview resource and scan the Synapse An
 ## After the hands-on lab
 
 **Duration**: 5 minutes
-
+-->
 ### Task 1: Delete the resource group
 
 1. In the Azure Portal, open the resource group for this lab. Select **Delete** from the top toolbar menu. Repeat this process for the resource group created with the Azure Function deployment.
